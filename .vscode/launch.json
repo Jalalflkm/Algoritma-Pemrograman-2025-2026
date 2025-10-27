@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "angka",
+      "request": "launch",
+      "mainClass": "angka",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
       "name": "Boolean",
       "request": "launch",
       "mainClass": "Java.Boolean",
