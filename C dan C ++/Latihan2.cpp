@@ -8,6 +8,5 @@ int main() {
   cin >> r;
   float luas = PI * r * r;
   cout <<"Luas lingkaran = "<< luas;
-
   return 0
 }
