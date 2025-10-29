@@ -22,8 +22,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Thinkpad/Documents/GitHub/Algoritma-Pemrograman-2025-2026/C dan C ++",
+      "program": "c:/Users/Thinkpad/Documents/GitHub/Algoritma-Pemrograman-2025-2026/C dan C ++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
