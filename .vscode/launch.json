@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AtmProgram",
+      "request": "launch",
+      "mainClass": "AtmProgram",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
+      "name": "ATM",
+      "request": "launch",
+      "mainClass": "ATM",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
       "name": "KasirMini",
       "request": "launch",
       "mainClass": "KasirMini",
