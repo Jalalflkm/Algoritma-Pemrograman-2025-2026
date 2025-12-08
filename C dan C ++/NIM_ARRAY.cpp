@@ -10,16 +10,13 @@ using namespace std;
 int main() {
     string nim;
     cout << "Masukkan NIM: ";
-
     getline(cin, nim); 
-
     vector<int> array_digit;
     for (char c : nim) {
         if (isdigit(c)) {
             array_digit.push_back(c - '0');
         }
     }
-
     if (array_digit.empty()) {
         cout << "NIM tidak valid atau tidak memiliki digit." << endl;
         return 0;
