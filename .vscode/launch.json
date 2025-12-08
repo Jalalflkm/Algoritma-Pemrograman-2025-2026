@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NimProcessor",
+      "request": "launch",
+      "mainClass": "NimProcessor",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
+      "name": "NIM_ARRAY",
+      "request": "launch",
+      "mainClass": "NIM_ARRAY",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
       "name": "AtmProgram",
       "request": "launch",
       "mainClass": "AtmProgram",
