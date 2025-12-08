@@ -1,4 +1,4 @@
-public class NIM_ARRAY {
+public class nim_array {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
