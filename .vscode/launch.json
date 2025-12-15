@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Floating",
+      "request": "launch",
+      "mainClass": "Floating",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
       "name": "NimProcessor",
       "request": "launch",
       "mainClass": "NimProcessor",
