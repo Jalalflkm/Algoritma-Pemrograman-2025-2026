@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Baper",
+      "request": "launch",
+      "mainClass": "Baper",
+      "projectName": "Algoritma-Pemrograman-2025-2026_a7162be5"
+    },
+    {
+      "type": "java",
       "name": "Floating",
       "request": "launch",
       "mainClass": "Floating",
